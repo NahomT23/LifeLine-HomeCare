@@ -81,7 +81,7 @@ const HomePage = ({ isMobile }) => {
       <div>
         <div className="grid items-center justify-center text-center mt-10">
           <p className="text-3xl font-semibold text-red-500">
-            Lifeline Adiss Homecare
+            Lifeline Adiss Homecare 
           </p>
 
           {/* Display only line 1 from the text array */}
