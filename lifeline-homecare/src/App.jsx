@@ -12,7 +12,7 @@ function App() {
 
   const handleScreenSizeChange = (isMobile) => {
     setIsMobile(isMobile);
-  };
+  }
 
   return (
     <>
