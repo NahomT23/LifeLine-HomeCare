@@ -1,0 +1,1 @@
+A user-friendly static website built for a homecare company. This website focuses on providing an intuitive and accessible experience for visitors, emphasizing clarity and ease of navigation. Built using React, Tailwind CSS, and enhanced with Framer Motion for smooth animations, and Intersection Observer for lazy loading and optimized performance.
